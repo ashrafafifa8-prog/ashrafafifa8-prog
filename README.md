@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Afifa
 
-<!--
-**ashrafafifa8-prog/ashrafafifa8-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React & Tailwind Enthusiast
 
-Here are some ideas to get you started:
+I build responsive and modern web applications using React, JavaScript, Tailwind CSS, and Figma. Passionate about creating clean UI/UX and interactive user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- ⚛️ React JS
+- 🌐 HTML5
+- 🎨 CSS3
+- 💨 Tailwind CSS
+- 🟨 JavaScript
+- 🎯 Figma
+- 🛠 Git & GitHub
+
+---
+
+## 📌 About Me
+
+- 💻 Frontend Developer
+- 📱 Responsive Web Design
+- 🎨 UI/UX Focused
+- 🚀 Learning Modern Web Technologies
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: your-github-link
+- LinkedIn: your-linkedin-link
+
+---
+
+## ✨ Motto
+
+> "Design. Develop. Improve. Repeat."
+
+
